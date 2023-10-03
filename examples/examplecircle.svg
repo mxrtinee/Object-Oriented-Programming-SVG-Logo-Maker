@@ -1,0 +1,9 @@
+
+    <!-- SVG code here -->
+    <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+    <!-- Shape code here, using shape.render() -->
+    <circle cx="50%" cy="50%" r="100" height="100%" width="100%" fill="black"/>
+    <!-- Text code here, using defaultText -->
+    <text x="150" y="100" text-anchor="middle" dominant-baseline="middle" font-size="70" font-weight="bold" fill="red">mar</text>
+    </svg>
+    

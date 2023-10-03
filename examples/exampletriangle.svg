@@ -2,8 +2,8 @@
     <!-- SVG code here -->
     <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
     <!-- Shape code here, using shape.render() -->
-    <polygon height="100%" width="100%" points="150, 18 244, 182 56, 182" fill="orange"/>
+    <polygon height="100%" width="100%" points="150, 18 244, 182 56, 182" fill="blue"/>
     <!-- Text code here, using defaultText -->
-    <text x="150" y="145" text-anchor="middle" dominant-baseline="middle" font-size="70" font-weight="bold" fill="lime">tin</text>
+    <text x="150" y="145" text-anchor="middle" dominant-baseline="middle" font-size="70" font-weight="bold" fill="yellow">les</text>
     </svg>
     

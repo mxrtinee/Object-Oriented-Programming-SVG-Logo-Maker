@@ -32,7 +32,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
  ## Link to Google Drive
 
-  [Video Submission](https://drive.google.com/file/)
+  [Video Submission](https://drive.google.com/file/d/1eIzEDNucEIIHnWgG-AJn4vUUmzCBb88e/view?usp=drive_link)
 
   ## Screenshot
 

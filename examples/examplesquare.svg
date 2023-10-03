@@ -2,8 +2,8 @@
     <!-- SVG code here -->
     <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
     <!-- Shape code here, using shape.render() -->
-    <rect x="50" width="200" height="200" fill="yellow"/>
+    <rect x="50" width="200" height="200" fill="red"/>
     <!-- Text code here, using defaultText -->
-    <text x="150" y="100" text-anchor="middle" dominant-baseline="middle" font-size="70" font-weight="bold" fill="blue">dev</text>
+    <text x="150" y="100" text-anchor="middle" dominant-baseline="middle" font-size="70" font-weight="bold" fill="cyan">pet</text>
     </svg>
     

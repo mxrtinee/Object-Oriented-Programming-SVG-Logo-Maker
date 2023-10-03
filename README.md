@@ -1,7 +1,7 @@
 # Object-Oriented-Programming-SVG-Logo-Maker
 
  ## Description
-
+The SVG Logo Maker is a command-line application designed to assist freelance web developers in creating simple logos for their projects. It offers a user-friendly interface for generating SVG logos with customizable text, text color, shape, and shape color. Say goodbye to the need for graphic designers and hello to personalized project logos in minutes.
 
 ### User Story
 
@@ -48,17 +48,16 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
 
    ## Installation
-
+  To install the required dependencies, run the following command: npm install
    ## Usage
-
-   ## Contributing
-
+  To use this application, run the following command: node index.js<br>
+  Follow the prompts to generate your SVG logo.
   ## Tests
+  To run the tests for this application, use the following command: npm test
 
   ## Questions
   If you have any questions or encounter any issues, please feel free to [open an issue](https://github.com/mxrtinee/Object-Oriented-Programming-SVG-Logo-Maker/issues) or contact me directly:<br>
